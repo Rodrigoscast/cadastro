@@ -37,7 +37,7 @@ flutter run -d web-server
 
 ## 📹 Demonstração em vídeo
 
-[Contador de Cliques](rodrigo.gif)
+[Contador de Cliques](amanda.gif)
 
 ---
 
